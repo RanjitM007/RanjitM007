@@ -1,4 +1,6 @@
 # Hi there 👋
+Am RANJIT 
+Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve target. I am always on the lookout for new projects to work
 
 ![AI](https://github.com/RanjitM007/Images/blob/main/ezgif.com-gif-maker.gif?raw=true)
 

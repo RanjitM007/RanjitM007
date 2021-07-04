@@ -18,4 +18,3 @@
 - 💬 Ask me about Datapreprocess,Data Visualization,Machine Learning Model,Pipe Line,NLP
  # 📫 How to reach me:
  https://www.linkedin.com/in/ranjit-maity-75204a131/
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white

@@ -7,7 +7,7 @@ Give me raw data and I'll return you insights, problems to be rectified and enha
 
 
 
-# 🔭 I’m currently working on ...Deep Learning
+# 🔭 I’m currently working on NEURAL NETWORKS AND DEEP LEARNING
 
 ![DL](https://github.com/RanjitM007/Images/blob/main/abbc.gif?raw=true)
 

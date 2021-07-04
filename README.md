@@ -2,6 +2,8 @@
 
 ![AI](https://github.com/RanjitM007/Images/blob/main/ezgif.com-gif-maker.gif?raw=true)
 
+![ROBOT](https://github.com/RanjitM007/Images/blob/main/Human-teaching-robot.gif?raw=true)
+
 
 - 🔭 I’m currently working on ...Deep Learning
 - 🌱 I’m currently learning ...Matlab

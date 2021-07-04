@@ -5,7 +5,6 @@ Give me raw data and I'll return you insights, problems to be rectified and enha
 
 ![AI](https://github.com/RanjitM007/Images/blob/main/ezgif.com-gif-maker.gif?raw=true)
 
-![ROBOT](https://github.com/RanjitM007/Images/blob/main/Human-teaching-robot.gif?raw=true)
 
 
 # 🔭 I’m currently working on ...Deep Learning

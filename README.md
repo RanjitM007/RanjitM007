@@ -1,9 +1,9 @@
 # Hi there 👋
 Am RANJIT 
 
-      " You Can Have Data With out Information 
+" You Can Have Data With out Information 
             
-            But You can't get The Information Without Data"
+   But You can't Have  The Information Without Data"
 
 Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve target. I am always on the lookout for new projects to work
 

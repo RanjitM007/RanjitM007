@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![AI](https://github.com/RanjitM007/Images/blob/main/5e0c09805d04718512864363ab3f0d78.gif?raw=true)
+![AI](https://github.com/RanjitM007/Images/blob/main/ezgif.com-gif-maker.gif?raw=true)
 
 
 - 🔭 I’m currently working on ...Deep Learning

@@ -37,7 +37,8 @@ Skills: Python,MySQL,Pandas,Numpy,WebScrapping,Machine Learning,NLp,Deep Learnin
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16327587/ranson)
 
 
-<h3 align="center">A certified Data Scientist  from India</h3>
+<h2 align="center">" You Can Have Data With out Information But You canot Have The Information Without Data" </h1>
+<h3 align="center">I Am Ranjit From INDIA, a Certified Data scientist , with hands-on experience of more than 7months , Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve the target. I am always on the lookout for new projects to work</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitm007&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitm007" /> </p>
 

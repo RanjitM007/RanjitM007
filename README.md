@@ -1,14 +1,11 @@
 # Hi there 👋 
 <h2 align="center">" You Can Have Data With out Information But You canot Have The Information Without Data" </h1>
-<h3 align="center">I Am Ranjit From INDIA, a Certified Data scientist , with hands-on experience of more than 7months , Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve the target. I am always on the lookout for new projects to work</h3>
+<h3 align="center">I Am Ranjit From INDIA, a Certified Data scientist , with hands-on experience of more than 7months , Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve the target. I am always on the lookout for new projects to work And Happy To Play With Data</h3>
 
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjitm007&" alt="ranjitm007" /></p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjitm007&show_icons=true&locale=en&layout=compact" alt="ranjitm007" /></p>
 

@@ -28,9 +28,6 @@ Give me raw data and I'll return you insights, problems to be rectified and enha
 
 
  # 📫 How to reach me:
- https://www.linkedin.com/in/ranjit-maity-75204a131/
- 
-
- <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/ranjit-maity-75204a131/">
- 
  [![image](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjit-maity-75204a131/)
+ 
+ ![Twitter Follow](https://img.shields.io/twitter/follow/ranjitmaity95?color=1DA1F2&logo=Twitter)

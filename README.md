@@ -29,7 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjitm007&" alt="ranjitm007" /></p>
 
-[![Ranjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanjitM007)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🔭 I’m currently working on NEURAL NETWORKS AND DEEP LEARNING
 

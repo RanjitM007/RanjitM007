@@ -22,9 +22,13 @@ Give me raw data and I'll return you insights, problems to be rectified and enha
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Datapreprocess,Data Visualization,Machine Learning Model,Pipe Line,NLP
+- 💬 Ask me about 
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+
+
  # 📫 How to reach me:
  https://www.linkedin.com/in/ranjit-maity-75204a131/
  
  
- <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/ ,href='https://www.linkedin.com/in/ranjit-maity-75204a131/'>

@@ -4,49 +4,13 @@
             
    But You can't Have  The Information Without Data"
    
-   
-
-### Hi there 👋, Ranjit Maity
-#### Data Scientist
-![Data Scientist](https://www.facebook.com/photo.php?fbid=1104492483078753&set=pb.100005540359094.-2207520000..&type=3)
+  
 
 I Am Ranjit From INDIA, a Certified Data scientist , with hands-on experience of more than 7months , Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve the target. I am always on the lookout for new projects to work
 
 Skills: Python,MySQL,Pandas,Numpy,WebScrapping,Machine Learning,NLp,Deep Learning
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Matlab 
-
-
-
-
-
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-### Hi there 👋, Ranjit Maity
-#### Data Scientist
-![Data Scientist](https://www.linkedin.com/in/ranjit-maity-75204a131/)
-
-I Am Ranjit From INDIA, a Certified Data scientist , with hands-on experience of more than 7months , Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve the target. I am always on the lookout for new projects to work
-
-Skills: Python,MySQL,Pandas,Numpy,WebScrapping,Machine Learning,NLp,Deep Learning
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
 
 [![Ranjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanjitM007)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 # 🔭 I’m currently working on NEURAL NETWORKS AND DEEP LEARNING
 

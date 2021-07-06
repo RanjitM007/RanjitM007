@@ -37,7 +37,7 @@ Skills: Python,MySQL,Pandas,Numpy,WebScrapping,Machine Learning,NLp,Deep Learnin
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16327587/ranson)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A certified Data Scientist  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitm007&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitm007" /> </p>
 

@@ -8,7 +8,6 @@
 
 Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve target. I am always on the lookout for new projects to work
 
-![AI](https://github.com/RanjitM007/Images/blob/main/ezgif.com-gif-maker.gif?raw=true)
 
 
 
@@ -32,4 +31,3 @@ Give me raw data and I'll return you insights, problems to be rectified and enha
  ![Twitter Follow](https://img.shields.io/twitter/follow/ranjitmaity95?color=1DA1F2&logo=Twitter)
 [![img](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ranjitmaity95/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16327587/ranson)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ranjitmaity95@gmail.com)

@@ -15,6 +15,14 @@ I Am Ranjit From INDIA, a Certified Data scientist , with hands-on experience of
 Skills: Python,MySQL,Pandas,Numpy,WebScrapping,Machine Learning,NLp,Deep Learning
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Matlab 
+
+
+
+
+
+
+- 🔭 I’m currently working on this page. 
 
 
 

@@ -1,4 +1,6 @@
 # Hi there 👋 
+## Am Ranjit 
+###Data Scintist
 
 " You Can Have Data With out Information 
             

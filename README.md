@@ -8,6 +8,9 @@
 
 Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve target. I am always on the lookout for new projects to work
 
+[![Ranjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanjitM007)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 

@@ -22,8 +22,6 @@
 
 ![Matlab](https://github.com/RanjitM007/Images/blob/main/plot3d_animated.gif?raw=true)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about 
 - 
 

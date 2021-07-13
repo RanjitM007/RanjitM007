@@ -18,7 +18,7 @@
 
 ## Demo
 Link: [https://ticket-price-web-app.herokuapp.com/](https://ticket-price-web-app.herokuapp.com/)
-[![](https://i.imgur.com/R1g2wvC.png)](https://ticket-price-web-app.herokuapp.com/)
+[![(https://i.imgur.com/R1g2wvC.png)](https://ticket-price-web-app.herokuapp.com/)]
 
 [![](https://i.imgur.com/p0aeL6c.png)](https://ticket-price-web-app.herokuapp.com/)
 

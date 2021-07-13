@@ -13,16 +13,17 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjitm007&" alt="ranjitm007" /></p>
 # ✨ latest Projects 
+
 ## FLIGHT TICKET PRICE PREDICTION
 
 Its Live now :
-<a href="https://ticket-price-web-app.herokuapp.com/" target="blank"><img align="center" src="https://github.com/RanjitM007/Images/blob/main/click-here-logo-button-gif-images-2.gif" alt="Live Now" height="30" width="40" /></a>
+
+<a href="https://ticket-price-web-app.herokuapp.com/" target="blank"><img align="center" src="https://github.com/RanjitM007/Images/blob/main/click-here-logo-button-gif-images-2.gif" alt="Live Now" height="40" width="70" /></a>
 
 
 # 🔭 I’m currently working on NEURAL NETWORKS AND DEEP LEARNING
 
-## Demo
-Link: [https://ticket-price-web-app.herokuapp.com/](https://ticket-price-web-app.herokuapp.com/)
+
 
 ![DL](https://github.com/RanjitM007/Images/blob/main/abbc.gif?raw=true)
 

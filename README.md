@@ -12,6 +12,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjitm007&show_icons=true&locale=en" alt="ranjitm007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjitm007&" alt="ranjitm007" /></p>
+# ✨ latest Projects 
+## FLIGHT TICKET PRICE PREDICTION
+
+Its Live now :![](https://tenor.com/view/click-here-pointing-tap-here-just-click-here-to-the-right-gif-17638638)(https://ticket-price-web-app.herokuapp.com/)
 
 
 # 🔭 I’m currently working on NEURAL NETWORKS AND DEEP LEARNING

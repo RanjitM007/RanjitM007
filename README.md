@@ -16,7 +16,7 @@
 ## FLIGHT TICKET PRICE PREDICTION
 
 Its Live now :
-<a href="https://ticket-price-web-app.herokuapp.com/" target="blank"><img align="center" src="https://tenor.com/view/click-here-pointing-tap-here-just-click-here-to-the-right-gif-17638638" alt="Live Now" height="30" width="40" /></a>
+<a href="https://github.com/RanjitM007/Images/blob/main/click-here-logo-button-gif-images-2.gif" target="blank"><img align="center" src="https://tenor.com/view/click-here-pointing-tap-here-just-click-here-to-the-right-gif-17638638" alt="Live Now" height="30" width="40" /></a>
 
 
 # 🔭 I’m currently working on NEURAL NETWORKS AND DEEP LEARNING

@@ -59,7 +59,7 @@ Its Live now :
 <a href="https://instagram.com/ranjit_budha007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjit_budha007/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/budha_ranjit007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="budha_ranjit007" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rmaity007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rmaity007" height="30" width="40" /></a>
-</p><p align="left"><a href="https://medium.com/@ranjitmaity95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranjitmaity95" height="30" width="40" /></a>
+</p><a href="https://medium.com/@ranjitmaity95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranjitmaity95" height="30" width="40" /></a>
 </p>
 
 

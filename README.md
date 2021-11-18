@@ -29,11 +29,11 @@ Its Live now :
 <a href="https://ticket-price-web-app.herokuapp.com/" target="blank"><img align="center" src="https://github.com/RanjitM007/Images/blob/main/click-here-logo-button-gif-images-2.gif" alt="Live Now" height="40" width="70" /></a>
 
 
-# 🔭 I’m currently working on NEURAL NETWORKS AND DEEP LEARNING
+# 🔭 I’m currently working on →Alteryx: Self-Service Analytics, Data Science & Automation
 
 
 
-![DL](https://github.com/RanjitM007/Images/blob/main/abbc.gif?raw=true)
+![alteryx](https://github.com/RanjitM007/Images/blob/main/Example_3b.gif?raw=true)
 
 # 🌱 I’m currently learning Matlab
 

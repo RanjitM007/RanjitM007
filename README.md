@@ -35,9 +35,9 @@ Its Live now :
 
 ![alteryx](https://github.com/RanjitM007/Images/blob/main/Example_3b.gif?raw=true)
 
-# 🌱 I’m currently learning Matlab
+# 🌱 I’m currently learning PySpark is an interface for Apache Spark in Python
 
-![Matlab](https://github.com/RanjitM007/Images/blob/main/plot3d_animated.gif?raw=true)
+![pyspark](https://github.com/RanjitM007/Images/blob/main/Z92e.gif?raw=true)
 
 - 💬 Ask me about 
 - 

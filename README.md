@@ -1,6 +1,6 @@
 # Hi there 👋 
 <h2 align="center">" You Can Have Data With out Information But You canot Have The Information Without Data" </h1>
-<h3 align="center">I Am Ranjit From INDIA, a Certified Data scientist , with hands-on experience of more than 8months ,on ML> NLP> Data mining > Neural Networks > ModeL Deployment.  Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve the target. I am always on the lookout for new projects to work And  Am Always Happy  ☻ To Play With Data</h3>
+<h3 align="center">I Am Ranjit From INDIA, a Certified Data scientist , with hands-on experience of more than 1year and 2months ,on ML> NLP> Data mining > Neural Networks > ModeL Deployment.  Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve the target. I am always on the lookout for new projects to work And  Am Always Happy  ☻ To Play With Data</h3>
 
 
 

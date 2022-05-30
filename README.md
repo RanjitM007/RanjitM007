@@ -17,6 +17,9 @@
  Deployed Python library :>
  
  - <a href='https://pypi.org/project/findr2/'>findr2</a>
+ - <a href='https://pypi.org/project/screeplot/'>screeplot</a>
+ - <a href='https://pypi.org/project/ultimateEda/'>ultimateEda</a>
+ - <a href='https://pypi.org/project/strdtm/'>strdtm</a>
 
 
 

@@ -16,7 +16,7 @@
  
  Deployed Python library :>
  
- - <a src='https://pypi.org/project/findr2/'>findr2</a>
+ - <a href='https://pypi.org/project/findr2/'>findr2</a>
 
 
 

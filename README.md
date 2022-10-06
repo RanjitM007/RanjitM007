@@ -3,7 +3,8 @@
 <h3 align="center">I Am Ranjit From INDIA, a Certified Data scientist , with hands-on experience of more than 1year and 4months ,on DATA ENGINEERING > ML> NLP> Data mining > Neural Networks > ModeL Deployment.  Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve the target. I am always on the lookout for new projects to work And  Am Always Happy  ☻ To Play With Data</h3>
 
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
@@ -70,5 +71,5 @@ Its Live now :
 <a href="https://www.hackerearth.com/@rmaity007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rmaity007" height="30" width="40" /></a>
 </p><a href="https://medium.com/@ranjitmaity95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranjitmaity95" height="30" width="40" /></a>
 </p>
-
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 

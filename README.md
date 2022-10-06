@@ -3,7 +3,6 @@
 <h3 align="center">I Am Ranjit From INDIA, a Certified Data scientist , with hands-on experience of more than 1year and 4months ,on DATA ENGINEERING > ML> NLP> Data mining > Neural Networks > ModeL Deployment.  Give me raw data and I'll return you insights, problems to be rectified and enhancements to achieve the target. I am always on the lookout for new projects to work And  Am Always Happy  ☻ To Play With Data</h3>
 
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 

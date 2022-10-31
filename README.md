@@ -16,13 +16,13 @@
  
  Deployed Python library :>
   <div>
-   <a href="https://storyset.com/work">Work illustrations by Storyset</a>
+   <img source='https://github.com/RanjitM007/silex/blob/main/metrics-animate.svg ></>
  - <a href='https://pypi.org/project/findr2/'>findr2</a>
  - <a href='https://pypi.org/project/screeplot/'>screeplot</a>
  - <a href='https://pypi.org/project/ultimateEda/'>ultimateEda</a>
  - <a href='https://pypi.org/project/strdtm/'>strdtm</a>
  
-
+                                             </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjitm007&show_icons=true&locale=en&layout=compact" alt="ranjitm007" /></p>
 

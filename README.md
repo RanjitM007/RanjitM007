@@ -16,8 +16,7 @@
  
  Deployed Python library :>
  
-   <img align="right" src="https://media.geeksforgeeks.org/wp-
-                            content/uploads/20190506164011/logo3.png" alt="">
+   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
  - <a href='https://pypi.org/project/findr2/'>findr2</a>
  - <a href='https://pypi.org/project/screeplot/'>screeplot</a>
  - <a href='https://pypi.org/project/ultimateEda/'>ultimateEda</a>

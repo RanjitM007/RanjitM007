@@ -16,7 +16,7 @@
  
  Deployed Python library :>
  
-   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+   <img  src="https://github.com/RanjitM007/silex/blob/main/metrics-animate.svg" align="right">
  - <a href='https://pypi.org/project/findr2/'>findr2</a>
  - <a href='https://pypi.org/project/screeplot/'>screeplot</a>
  - <a href='https://pypi.org/project/ultimateEda/'>ultimateEda</a>

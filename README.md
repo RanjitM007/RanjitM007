@@ -16,7 +16,8 @@
  
  Deployed Python library :>
   <div>
-   <img source='https://github.com/RanjitM007/silex/blob/main/metrics-animate.svg ></>
+   <img align="right" src="https://media.geeksforgeeks.org/wp-
+                            content/uploads/20190506164011/logo3.png" alt="">
  - <a href='https://pypi.org/project/findr2/'>findr2</a>
  - <a href='https://pypi.org/project/screeplot/'>screeplot</a>
  - <a href='https://pypi.org/project/ultimateEda/'>ultimateEda</a>

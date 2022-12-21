@@ -5,6 +5,18 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div class="blog-slider">
+  <div class="slides">
+    <div class="slide" style="background-image: url('image1.jpg');"></div>
+    <div class="slide" style="background-image: url('image2.jpg');"></div>
+    <div class="slide" style="background-image: url('image3.jpg');"></div>
+  </div>
+  <div class="controls">
+    <button class="prev">&lt;</button>
+    <button class="next">&gt;</button>
+  </div>
+</div>
+
 <style>
   .blog-slider {
     width: 700px;
@@ -41,17 +53,7 @@
   }
 </style>
 
-<div class="blog-slider">
-  <div class="slides">
-    <div class="slide" style="background-image: url('image1.jpg');"></div>
-    <div class="slide" style="background-image: url('image2.jpg');"></div>
-    <div class="slide" style="background-image: url('image3.jpg');"></div>
-  </div>
-  <div class="controls">
-    <button class="prev">&lt;</button>
-    <button class="next">&gt;</button>
-  </div>
-</div>
+
 
 
 

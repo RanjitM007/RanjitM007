@@ -5,6 +5,55 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<style>
+  .blog-slider {
+    width: 700px;
+    height: 400px;
+    overflow: hidden;
+  }
+  .blog-slider .slides {
+    display: flex;
+  }
+  .blog-slider .slides .slide {
+    flex: 1;
+    width: 700px;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+  }
+  .blog-slider .slides .slide:first-child {
+    margin-left: -700px;
+  }
+  .blog-slider .slides .slide:last-child {
+    margin-left: 700px;
+  }
+  .blog-slider .controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  }
+  .blog-slider .controls button {
+    border: none;
+    background: transparent;
+    font-size: 36px;
+    cursor: pointer;
+  }
+</style>
+
+<div class="blog-slider">
+  <div class="slides">
+    <div class="slide" style="background-image: url('image1.jpg');"></div>
+    <div class="slide" style="background-image: url('image2.jpg');"></div>
+    <div class="slide" style="background-image: url('image3.jpg');"></div>
+  </div>
+  <div class="controls">
+    <button class="prev">&lt;</button>
+    <button class="next">&gt;</button>
+  </div>
+</div>
+
+
 
 
 

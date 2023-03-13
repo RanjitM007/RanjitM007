@@ -69,7 +69,8 @@ I am a Certified Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RanjitM007&theme=python-dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitM007layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitM007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### Joke Of The Day

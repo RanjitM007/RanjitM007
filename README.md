@@ -75,4 +75,7 @@ I am a Certified Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 
 ### Joke Of The Day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+![snake gif](https://github.com/RanjitM007/RanjitM007/blob/output/github-contribution-grid-snake.gif)
                                                                                               

@@ -35,6 +35,13 @@ I am a Certified Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ranjit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranjit-maity-75204a131/)
 ---
 
+# My First LLM Model: QueryQuill
+
+[![LLM Project GIF](https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2023/05/LLM.gif)](https://queryquill-bot-chat.streamlit.app/)
+
+
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;

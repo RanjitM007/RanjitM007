@@ -11,6 +11,11 @@
   <a href="https://twitter.com/ranjitmaity95" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://ranjitm007.github.io/portfolio/" target="_blank">
+    <img src="https://img.icons8.com/material-two-tone/24/000000/domain--v1.png" alt="Web Icon"/>
+    Visit my portfolio website
+</a>
+
 </div>
 <div id="cnt" align="center">
   <img src="https://komarev.com/ghpvc/?username=RanjitM007&style=flat-square&color=blue" alt=""/>

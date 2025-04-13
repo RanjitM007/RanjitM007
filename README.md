@@ -96,6 +96,10 @@ I am a Certified Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 <a href="https://medium.com/@ranjitm007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranjitm007" height="30" width="40" /></a>
 </p>
 
+### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ### 🌟 GitHub Statistics

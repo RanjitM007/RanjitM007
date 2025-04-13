@@ -1,13 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ranjit-maity-75204a131/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCL2nuY40qCGsoBRXh1bdKkw" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/ranjitmaity95" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -89,4 +80,55 @@ I am a Certified Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-                                                                                              
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RanjitM007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://dev.to/ranjitm007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ranjitm007" height="30" width="40" /></a>
+<a href="https://kaggle.com/ranjitm007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ranjitm007" height="30" width="40" /></a>
+<a href="https://medium.com/@ranjitm007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranjitm007" height="30" width="40" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+### 🌟 GitHub Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RanjitM007&show_icons=true&theme=radical)
+
+### 🔥 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RanjitM007&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 💻 Tech Stack Badges
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+
+### 🎯 Profile Views Counter
+![](https://komarev.com/ghpvc/?username=RanjitM007&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+
+
+### 🏃 Activity Graph
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanjitM007&theme=monokai)
+
+
+
+### 🎮 Let's Play
+<a href="https://github.com/RanjitM007/RanjitM007/issues/new?template=chess.md">♟️ Play Chess with me</a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
+

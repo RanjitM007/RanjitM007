@@ -97,13 +97,7 @@ I am a **Data Engineer and Certified Data Scientist** from India 🇮🇳, passi
 
 ### 📚 Latest Tech Articles
 
-<!-- BLOG-POST-LIST:START -->
-* 📝 [Serverless vs JobCluster in Databricks: Choosing the Right Compute Strategy](https://medium.com/@ranjitmaity95/serverless-vs-jobcluster-in-databricks-choosing-the-right-compute-strategy-8b50bcbb86ba)
-* 📝 [Pandas vs PySpark DataFrame: The Ultimate Guide for Data Enthusiasts](https://medium.com/@ranjitmaity95/pandas-vs-pyspark-dataframe-the-ultimate-guide-for-data-enthusiasts-a15ea8755ca7)
-* 📝 [Difference Between INT and BIGINT](https://medium.com/@ranjitmaity95/difference-between-int-and-bigint-052f1bd7934e)
-* 📝 [Logistic regression - Simply Explained](https://medium.com/@ranjitmaity95/logistic-regression-59b4673fa1d4)
-* 📝 [Linear Regression - A Deep Dive](https://medium.com/@ranjitmaity95/linear-regression-e12bb11b41a6)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->📝 [Serverless vs  JobCluster in Databricks: Choosing the Right Compute Strategy](https://medium.com/@ranjitmaity95/serverless-vs-jobcluster-in-databricks-choosing-the-right-compute-strategy-8b50bcbb86ba?source=rss-b6c0908efd8------2)📝 [Pandas vs PySpark DataFrame: The Ultimate Guide for Data Enthusiasts](https://medium.com/@ranjitmaity95/pandas-vs-pyspark-dataframe-the-ultimate-guide-for-data-enthusiasts-a15ea8755ca7?source=rss-b6c0908efd8------2)📝 [Difference Between INT and BIGINT](https://medium.com/@ranjitmaity95/difference-between-int-and-bigint-052f1bd7934e?source=rss-b6c0908efd8------2)📝 [Logistic regression](https://medium.com/@ranjitmaity95/logistic-regression-59b4673fa1d4?source=rss-b6c0908efd8------2)📝 [Linear Regression](https://medium.com/@ranjitmaity95/linear-regression-e12bb11b41a6?source=rss-b6c0908efd8------2)<!-- BLOG-POST-LIST:END -->
 <p align="right"><a href="https://medium.com/@ranjitm007"><b>Read more on Medium ➔</b></a></p>
 
 <br>

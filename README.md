@@ -1,137 +1,113 @@
-<div id="header" align="center">
-  <a href="https://twitter.com/ranjitmaity95" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://ranjitm007.github.io/portfolio/" target="_blank">
-    <img src="https://img.icons8.com/material-two-tone/24/000000/domain--v1.png" alt="Web Icon"/>
-    Visit my portfolio website
-</a>
-
-</div>
-<div id="cnt" align="center">
-  <img src="https://komarev.com/ghpvc/?username=RanjitM007&style=flat-square&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20Ranjit!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&desc=Certified%20Data%20Scientist%20%7C%20Data%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50"/>
+  
+  <br>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E91E63&center=true&vCenter=true&width=500&lines=Building+Scalable+ETL+Pipelines;Exploring+Generative+AI+%26+LLMs;Writing+In-Depth+Tech+Blogs;Solving+Complex+Data+Problems" alt="Typing SVG" />
+  </a>
 </div>
----
 
-### :man_technologist: About Me :
-I am a Certified Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Data Engineer and contributing to created ETL Pipeline.
+<br>
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ranjit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranjit-maity-75204a131/)
----
-
-# My First LLM Model: QueryQuill
-
-[![LLM Project GIF](https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2023/05/LLM.gif)](https://queryquill-bot-chat.streamlit.app/)
-
-
-
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="heroku" alt="heroku " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle"  alt="kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" **alt="OpenCV" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" **alt="putty" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" **alt="jira" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" **alt="selenium" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+<div align="center">
+  <a href="https://twitter.com/ranjitmaity95" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/ranjit-maity-75204a131/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ranjitm007.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://kaggle.com/ranjitm007" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://medium.com/@ranjitm007" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RanjitM007&style=flat-square&color=E91E63&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RanjitM007&theme=python-dark)](https://git.io/streak-stats)
+### 👨‍💻 A Little About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitM007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+I am a **Data Engineer and Certified Data Scientist** from India 🇮🇳, passionate about orchestrating data and building intelligent models. I love turning complex data problems into clean, automated, and scalable solutions.
+
+- 🔭 **Current Focus:** Designing and optimizing robust ETL Pipelines.
+- 🌱 **Learning:** Diving deeper into Large Language Models (LLMs) & Generative AI.
+- ⚡ **Fun Fact:** When I'm not coding, I'm solving algorithmic challenges on GeeksforGeeks or playing chess!
+- 🤝 **Open to:** Collaborations on Data Engineering projects & Technical writing.
+- ♟️ **Let's Play:** [**Challenge me to a game of Chess!**](https://github.com/RanjitM007/RanjitM007/issues/new?template=chess.md)
+
 ---
 
-### Joke Of The Day
-![Jokes Card](https://readme-jokes.vercel.app/api)
+### 🚀 Highlighted Creation: QueryQuill AI
 
+<div align="center">
+  <a href="https://queryquill-bot-chat.streamlit.app/" target="_blank">
+    <img src="https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2023/05/LLM.gif" width="700" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="QueryQuill GIF"/>
+  </a>
+  <br><br>
+  <b>QueryQuill</b> is my first conversational AI bot built to simplify and enhance user queries. It leverages modern LLM architecture to provide intelligent, context-aware responses.
+  <br><br>
+  <i>Tech Stack: Python, Streamlit, LLM APIs</i>
+  <br>
+  🔗 <a href="https://queryquill-bot-chat.streamlit.app/"><b>Try QueryQuill Live Here</b></a>
+</div>
 
+---
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RanjitM007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🛠️ My Tech Stack
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <p><b>Data Science & Programming</b></p>
+  <img src="https://skillicons.dev/icons?i=py,r,numpy,opencv,md,jupyter&perline=10" alt="Data Stack" />
+  <br><br>
+  <p><b>Cloud, Databases & DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mysql,mongo,sqlite,django,flask,docker,git,github,vscode&perline=12" alt="Cloud and DevOps Stack" />
+</div>
 
+---
 
+### 📊 GitHub Analytics
 
-### 🌐 Connect with me
-<p align="left">
-<a href="https://dev.to/ranjitm007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ranjitm007" height="30" width="40" /></a>
-<a href="https://kaggle.com/ranjitm007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ranjitm007" height="30" width="40" /></a>
-<a href="https://medium.com/@ranjitm007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranjitm007" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RanjitM007&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
 
-### 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->📝 [Serverless vs  JobCluster in Databricks: Choosing the Right Compute Strategy](https://medium.com/@ranjitmaity95/serverless-vs-jobcluster-in-databricks-choosing-the-right-compute-strategy-8b50bcbb86ba?source=rss-b6c0908efd8------2)📝 [Pandas vs PySpark DataFrame: The Ultimate Guide for Data Enthusiasts](https://medium.com/@ranjitmaity95/pandas-vs-pyspark-dataframe-the-ultimate-guide-for-data-enthusiasts-a15ea8755ca7?source=rss-b6c0908efd8------2)📝 [Difference Between INT and BIGINT](https://medium.com/@ranjitmaity95/difference-between-int-and-bigint-052f1bd7934e?source=rss-b6c0908efd8------2)📝 [Logistic regression](https://medium.com/@ranjitmaity95/logistic-regression-59b4673fa1d4?source=rss-b6c0908efd8------2)📝 [Linear Regression](https://medium.com/@ranjitmaity95/linear-regression-e12bb11b41a6?source=rss-b6c0908efd8------2)<!-- BLOG-POST-LIST:END -->
+<br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RanjitM007&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitM007&layout=compact&theme=radical" alt="Top Langs" width="48%"/>
+</div>
 
-### 🌟 GitHub Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RanjitM007&show_icons=true&theme=radical)
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=RanjitM007&theme=radical" alt="Streak" width="48%"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" width="48%"/>
+</div>
 
-### 🔥 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RanjitM007&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanjitM007&theme=radical" alt="Activity Graph" width="97%"/>
+</div>
 
-### 💻 Tech Stack Badges
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+<br>
 
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
+---
 
-### 🎯 Profile Views Counter
-![](https://komarev.com/ghpvc/?username=RanjitM007&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+### 📚 Latest Tech Articles
 
+<!-- BLOG-POST-LIST:START -->
+* 📝 [Serverless vs JobCluster in Databricks: Choosing the Right Compute Strategy](https://medium.com/@ranjitmaity95/serverless-vs-jobcluster-in-databricks-choosing-the-right-compute-strategy-8b50bcbb86ba)
+* 📝 [Pandas vs PySpark DataFrame: The Ultimate Guide for Data Enthusiasts](https://medium.com/@ranjitmaity95/pandas-vs-pyspark-dataframe-the-ultimate-guide-for-data-enthusiasts-a15ea8755ca7)
+* 📝 [Difference Between INT and BIGINT](https://medium.com/@ranjitmaity95/difference-between-int-and-bigint-052f1bd7934e)
+* 📝 [Logistic regression - Simply Explained](https://medium.com/@ranjitmaity95/logistic-regression-59b4673fa1d4)
+* 📝 [Linear Regression - A Deep Dive](https://medium.com/@ranjitmaity95/linear-regression-e12bb11b41a6)
+<!-- BLOG-POST-LIST:END -->
+<p align="right"><a href="https://medium.com/@ranjitm007"><b>Read more on Medium ➔</b></a></p>
 
+<br>
 
-### 🏃 Activity Graph
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanjitM007&theme=monokai)
-
-
-
-### 🎮 Let's Play
-<a href="https://github.com/RanjitM007/RanjitM007/issues/new?template=chess.md">♟️ Play Chess with me</a>
-
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-
-
+</div>
